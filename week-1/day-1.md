@@ -14,12 +14,10 @@
 
 ### Notes
 
-Welcome to the Flatiron School!
+Welcome to the Flatiron School!!
 
 ### Objectives
 
 - Get to know their fellow students and key staff 
 - Understand Git! 
-
-### Labs
 
