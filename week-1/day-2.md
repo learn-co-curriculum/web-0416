@@ -20,9 +20,9 @@ You can review the hashketball lab to strengthen your understanding of dealing w
 
 ### Objectives
 
-- Strengthen your understanding of nested data structures 
-- Use Ruby to make web requests 
-- Have fun! 
+- Strengthen your understanding of nested data structures
+- Use Ruby to make web requests
+- Have fun!
 
 ### Labs
 
@@ -30,3 +30,5 @@ You can review the hashketball lab to strengthen your understanding of dealing w
 - [apis-and-iteration](http://www.github.com/learn-co-students/apis-and-iteration-web-0416)
 - [immersive-week-1-discussion-questions](http://www.github.com/learn-co-students/immersive-week-1-discussion-questions-web-0416)
 
+### [Today's Lecture](https://youtu.be/_BmEuwgHsGI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_BmEuwgHsGI" frameborder="0" allowfullscreen></iframe>
