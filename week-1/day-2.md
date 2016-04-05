@@ -4,7 +4,7 @@
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Table Discussion: talk with your table mates about today's questions |
+| 09:00 | Table Discussion: talk with your table mates about today's questions (click the link to the immersive-week-1-discussion-questions under the list of labs) |
 | 09:30 | Lecture: Web Requests and Nested Data |
 | 11:00 | Start the apis-and-iteration group project |
 | 12:00 | Lunch |
@@ -28,4 +28,5 @@ You can review the hashketball lab to strengthen your understanding of dealing w
 
 - [hasketball](http://www.github.com/learn-co-students/hasketball-web-0416)
 - [apis-and-iteration](http://www.github.com/learn-co-students/apis-and-iteration-web-0416)
+- [immersive-week-1-discussion-questions](http://www.github.com/learn-co-students/immersive-week-1-discussion-questions-web-0416)
 
