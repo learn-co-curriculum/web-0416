@@ -20,6 +20,7 @@ Welcome to the Flatiron School!!
 
 - Get to know their fellow students and key staff
 - Understand Git!
+- Have fun!
 
 ### [Today's Lecture](https://youtu.be/bK7i-BMJcM0)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bK7i-BMJcM0" frameborder="0" allowfullscreen></iframe>
