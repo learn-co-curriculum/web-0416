@@ -13,12 +13,18 @@
 
 ### Objectives
 
-- Explore the basic concepts and practices of Object Oriented Ruby 
-- Understand the difference between a class and an instance 
-- Understand how to instantiate an instance of a class 
-- Understand how instance variables work with setter and getter methods 
+- Explore the basic concepts and practices of Object Oriented Ruby
+- Understand the difference between a class and an instance
+- Understand how to instantiate an instance of a class
+- Understand how instance variables work with setter and getter methods
 
 ### Labs
 
 - [week-1-day-3-discussion](http://www.github.com/learn-co-students/week-1-day-3-discussion-web-0416)
 
+### [Code from Lecture](https://gist.github.com/StevenNunez/568f2aec78161c712480ddabdfa83e5f)
+
+
+### [Today's Lecture](https://www.youtube.com/watch?v=bBtFLt8nBng&feature=youtu.be)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/bBtFLt8nBng" frameborder="0" allowfullscreen></iframe>
