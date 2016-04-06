@@ -1,32 +1,24 @@
-# Week 1, Day 2
+# Week 1, Day 3
 
-### Tuesday, 05 Apr 2016
+### Wednesday, 06 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Table Discussion: talk with your table mates about today's questions (click the link to the immersive-week-1-discussion-questions under the list of labs) |
-| 09:30 | Lecture: Web Requests and Nested Data |
-| 11:00 | Start the apis-and-iteration group project |
+| 09:00 | Table Discussion Questions: week-1-day-3-discussion (see the link in the list of labs below)9 |
+| 09:30 | Object Orientation Lecture |
 | 12:00 | Lunch |
-| 01:00 | Logistics Talk |
-| 02:00 | Work on group project |
-| 02:30 | Icebreakers |
-| 03:30 | Finish group project |
-| 04:30 | Review group project |
-
-### Notes
-
-You can review the hashketball lab to strengthen your understanding of dealing with nested data structures in Ruby.
+| 01:00 | Icebreakers: People Bingo |
+| 02:00 | Lab Review: Star Wars API Project |
+| 03:30 | Work on OO Labs |
 
 ### Objectives
 
-- Strengthen your understanding of nested data structures 
-- Use Ruby to make web requests 
-- Have fun! 
+- Explore the basic concepts and practices of Object Oriented Ruby 
+- Understand the difference between a class and an instance 
+- Understand how to instantiate an instance of a class 
+- Understand how instance variables work with setter and getter methods 
 
 ### Labs
 
-- [hasketball](http://www.github.com/learn-co-students/hasketball-web-0416)
-- [apis-and-iteration](http://www.github.com/learn-co-students/apis-and-iteration-web-0416)
-- [immersive-week-1-discussion-questions](http://www.github.com/learn-co-students/immersive-week-1-discussion-questions-web-0416)
+- [week-1-day-3-discussion](http://www.github.com/learn-co-students/week-1-day-3-discussion-web-0416)
 
