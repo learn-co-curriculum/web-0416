@@ -1,24 +1,23 @@
-# Week 1, Day 3
+# Week 1, Day 4
 
-### Wednesday, 06 Apr 2016
+### Thursday, 07 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Table Discussion Questions: week-1-day-3-discussion (see the link in the list of labs below)9 |
-| 09:30 | Object Orientation Lecture |
+| 09:00 | TODO: Read the blogging reading and the intro to OO relations reading linked to below |
+| 09:30 | Lecture: Why blogging is great/OO Relationships |
+| 11:00 | Work on labs |
 | 12:00 | Lunch |
-| 01:00 | Icebreakers: People Bingo |
-| 02:00 | Lab Review: Star Wars API Project |
-| 03:30 | Work on OO Labs |
+| 01:00 | Group review of Star Wars Project |
+| 02:30 | Work on Labs |
 
 ### Objectives
 
-- Explore the basic concepts and practices of Object Oriented Ruby 
-- Understand the difference between a class and an instance 
-- Understand how to instantiate an instance of a class 
-- Understand how instance variables work with setter and getter methods 
+- Gain a deeper understanding of OO basics 
+- Learn about the relationships between objects and classes 
 
 ### Labs
 
-- [week-1-day-3-discussion](http://www.github.com/learn-co-students/week-1-day-3-discussion-web-0416)
+- [web-immersive-blogging](http://www.github.com/learn-co-students/web-immersive-blogging-web-0416)
+- [ruby-intro-to-object-relationships-with-belongs-to](http://www.github.com/learn-co-students/ruby-intro-to-object-relationships-with-belongs-to-web-0416)
 
