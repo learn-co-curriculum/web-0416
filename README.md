@@ -5,10 +5,12 @@
 | Time | Activity |
 | --- | --- |
 | 09:00 | TODO: Read the blogging reading and the intro to OO relations reading linked to below |
-| 09:30 | Lecture: Why blogging is great/OO Relationships |
-| 11:00 | Work on labs |
+| 09:30 | Placements Talk with Jackie |
+| 09:40 | Blogging Talk with Sophie |
+| 09:50 | Take a break! |
+| 10:00 | Object Relationships Lecture with Steven |
 | 12:00 | Lunch |
-| 01:00 | Group review of Star Wars Project |
+| 01:00 | Review Star Wars Project |
 | 02:30 | Work on Labs |
 
 ### Objectives
