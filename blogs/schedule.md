@@ -20,7 +20,7 @@
  * Rachel Bronstein
 
 ### Monday, 04/18
- * X M
+ * Chris Morrison
 
  * Angie Ramirez
 
