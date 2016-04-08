@@ -8,6 +8,7 @@
 | 09:30 | Moronic Monday |
 | 11:00 | Workshop: Meditation |
 | 04:30 | OO Learning Objectives Break Out Groups |
+| 01:00 | Lecture: Code Reuse with Inheritance and Modules |
 
 ### Notes
 
