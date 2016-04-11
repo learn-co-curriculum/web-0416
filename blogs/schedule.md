@@ -1,3 +1,5 @@
+[Checkout your classmates blogs, and schedule here!](http://flatiron-blogger.herokuapp.com/cohorts/23/schedules/19)
+
 ### Wednesday, 04/13
  Will Schneekloth
  Rachel Bronstein
