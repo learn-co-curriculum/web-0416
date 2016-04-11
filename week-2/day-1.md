@@ -9,6 +9,7 @@
 | 11:00 | Workshop: Meditation |
 | 04:30 | OO Learning Objectives Break Out Groups |
 | 03:30 | Lab Review: OO Barking Dog |
+| 01:00 | Work on Labs |
 
 ### Notes
 
