@@ -24,3 +24,6 @@ Today we'll do our first "moronic monday"! We'll send out a google form where yo
 
 - [ruby-objects-has-many-through-lab](http://www.github.com/learn-co-students/ruby-objects-has-many-through-lab-web-0416)
 
+### [Moronic Monday Discussion](https://youtu.be/Gd_s7CwW2MA)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Gd_s7CwW2MA" frameborder="0" allowfullscreen></iframe>
