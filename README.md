@@ -4,7 +4,7 @@
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: Clone down this repo https://github.com/StevenNunez/chicken\_Ser and follow the instructions in the README |
+| 09:00 | TODO: Clone down this repo https://github.com/StevenNunez/chicken_Ser and follow the instructions in the README |
 | 09:30 | Moronic Monday |
 | 11:00 | Workshop: Meditation |
 | 04:30 | OO Learning Objectives Break Out Groups |
