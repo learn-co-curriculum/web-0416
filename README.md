@@ -25,4 +25,5 @@ Today we'll do our first "moronic monday"! We'll send out a google form where yo
 - [ruby-objects-has-many-through-lab](http://www.github.com/learn-co-students/ruby-objects-has-many-through-lab-web-0416)
 - [oo-banking](http://www.github.com/learn-co-students/oo-banking-web-0416)
 - [ruby-puppy](http://www.github.com/learn-co-students/ruby-puppy-web-0416)
+- [ruby-advanced-class-methods](http://www.github.com/learn-co-students/ruby-advanced-class-methods-web-0416)
 
