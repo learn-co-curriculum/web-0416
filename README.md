@@ -7,9 +7,9 @@
 | 09:00 | TODO: Clone down this repo https://github.com/StevenNunez/chicken\_Ser and follow the instructions in the README |
 | 09:30 | Moronic Monday |
 | 11:00 | Workshop: Meditation |
-| 04:30 | OO Learning Objectives Break Out Groups |
-| 03:30 | Lab Review: OO Barking Dog |
 | 01:00 | Work on Labs |
+| 03:30 | Lab Review: OO Barking Dog |
+| 04:30 | OO Learning Objectives Break Out Groups |
 
 ### Notes
 
@@ -22,8 +22,5 @@ Today we'll do our first "moronic monday"! We'll send out a google form where yo
 
 ### Labs
 
-- [ruby-inheritance-lab](http://www.github.com/learn-co-students/ruby-inheritance-lab-web-0416)
-- [artist-song-modules](http://www.github.com/learn-co-students/artist-song-modules-web-0416)
-- [ruby-super-inheritance-lab](http://www.github.com/learn-co-students/ruby-super-inheritance-lab-web-0416)
-- [keyword-args-mass-assignment](http://www.github.com/learn-co-students/keyword-args-mass-assignment-web-0416)
+- [ruby-objects-has-many-through-lab](http://www.github.com/learn-co-students/ruby-objects-has-many-through-lab-web-0416)
 
