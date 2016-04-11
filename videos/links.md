@@ -5,3 +5,5 @@
 3 . [Intro to Object Orientation](https://www.youtube.com/watch?v=bBtFLt8nBng&feature=youtu.be)
 
 4 . [Intro to Object Relations and Self](https://www.youtube.com/watch?v=Vrj1opkvTs8&feature=youtu.be)
+
+5 . [Moronic Monday, Week 2](https://www.youtube.com/watch?v=Gd_s7CwW2MA&feature=youtu.be)
