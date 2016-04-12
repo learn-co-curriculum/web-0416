@@ -32,3 +32,5 @@ We'll start our group projects today! Guidelines to be discussed later. Pairs wi
 <iframe width="420" height="315" src="https://www.youtube.com/embed/A9_ZEgEeG-8" frameborder="0" allowfullscreen></iframe>
 
 
+
+###[Click for Bonus Lecture Material](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
