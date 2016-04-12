@@ -4,10 +4,11 @@
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Work on and finish you CLI apps! |
+| 09:00 | TODO: SQL and Database discussion questions with your table group |
+| 09:30 | First blogs ever!! |
+| 10:00 | Finish CLI app with partner and record demos |
 | 12:00 | Lunch |
-| 01:00 | TODO: Database discussion questions with your table group |
-| 01:30 | Lecture: Database and SQL intro |
+| 01:00 | Lecture: Database and SQL Intro |
 | 03:30 | Work on SQL labs |
 
 ### Blogs
