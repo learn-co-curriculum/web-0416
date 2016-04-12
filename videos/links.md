@@ -7,3 +7,10 @@
 4 . [Intro to Object Relations and Self](https://www.youtube.com/watch?v=Vrj1opkvTs8&feature=youtu.be)
 
 5 . [Moronic Monday, Week 2](https://www.youtube.com/watch?v=Gd_s7CwW2MA&feature=youtu.be)
+
+6 . [Sharing Code](http://youtu.be/A9_ZEgEeG-8)
+
+## Lab Reviews
+
+1 . [OO Banking](https://www.youtube.com/watch?v=DHKBrGklJSA&feature=youtu.be)
+
