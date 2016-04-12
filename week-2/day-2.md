@@ -25,3 +25,10 @@ We'll start our group projects today! Guidelines to be discussed later. Pairs wi
 - [artist-song-modules](http://www.github.com/learn-co-students/artist-song-modules-web-0416)
 - [ruby-super-inheritance-lab](http://www.github.com/learn-co-students/ruby-super-inheritance-lab-web-0416)
 
+### [The Code](https://gist.github.com/7da061e28cd0a219416c36261a2ecc3f)
+
+### [Today's Lecture](https://www.youtube.com/watch?v=A9_ZEgEeG-8&feature=youtu.be)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/A9_ZEgEeG-8" frameborder="0" allowfullscreen></iframe>
+
+
