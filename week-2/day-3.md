@@ -33,4 +33,5 @@ We'll be finishing our projects and recording demos by lunch. Then, we'll jump i
 - [sql-database-basics-readme](http://www.github.com/learn-co-students/sql-database-basics-readme-web-0416)
 - [sql-databases-and-text-editors-readme](http://www.github.com/learn-co-students/sql-databases-and-text-editors-readme-web-0416)
 - [sql-insert-select-update-code-along](http://www.github.com/learn-co-students/sql-insert-select-update-code-along-web-0416)
+- [week-2-day-3-discussion](http://www.github.com/learn-co-students/week-2-day-3-discussion-web-0416)
 
