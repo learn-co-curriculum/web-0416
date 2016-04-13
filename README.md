@@ -1,27 +1,37 @@
-# Week 2, Day 2
+# Week 2, Day 3
 
-### Tuesday, 12 Apr 2016
+### Wednesday, 13 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: work on new Metaprogramming content |
-| 09:30 | Lecture: Code Reuse with Inheritance and Modules |
-| 11:00 | Start Group Projects: groups will be assigned, guidelines deployed. Brainstorm a project idea with your partner. |
+| 09:00 | TODO: SQL and Database discussion questions with your table group |
+| 09:30 | First blogs ever!! |
+| 10:00 | Finish CLI app with partner and record demos |
 | 12:00 | Lunch |
-| 01:00 | Work on group project |
+| 01:00 | Lecture: Database and SQL Intro |
+| 03:30 | Work on SQL labs |
+
+### Blogs
+
+- [Will Schneekloth](http://www.willschneekloth.com)
+- [Rachel Bronstein](http://rachelbronstein.com/category/blog/)
+- [Howard Watts](https://medium.com/@hdwatts)
 
 ### Notes
 
-We'll start our group projects today! Guidelines to be discussed later. Pairs will be assigned.
+We'll be finishing our projects and recording demos by lunch. Then, we'll jump into a new topic this afternoon!
 
 ### Objectives
 
-- Understand inheritance and modules 
-- Build an awesome command line app with a partner! 
+- Understand what a database is and why we need them as developers 
+- Understand what SQL is and how it stores different types of data 
 
 ### Labs
 
-- [ruby-inheritance-lab](http://www.github.com/learn-co-students/ruby-inheritance-lab-web-0416)
-- [artist-song-modules](http://www.github.com/learn-co-students/artist-song-modules-web-0416)
-- [ruby-super-inheritance-lab](http://www.github.com/learn-co-students/ruby-super-inheritance-lab-web-0416)
+- [sql-topic-introduction](http://www.github.com/learn-co-students/sql-topic-introduction-web-0416)
+- [sql-intro-and-installation-readme](http://www.github.com/learn-co-students/sql-intro-and-installation-readme-web-0416)
+- [sql-database-basics-readme](http://www.github.com/learn-co-students/sql-database-basics-readme-web-0416)
+- [sql-databases-and-text-editors-readme](http://www.github.com/learn-co-students/sql-databases-and-text-editors-readme-web-0416)
+- [sql-insert-select-update-code-along](http://www.github.com/learn-co-students/sql-insert-select-update-code-along-web-0416)
+- [week-2-day-3-discussion](http://www.github.com/learn-co-students/week-2-day-3-discussion-web-0416)
 
