@@ -1,37 +1,36 @@
-# Week 2, Day 3
+# Week 2, Day 4
 
-### Wednesday, 13 Apr 2016
+### Thursday, 14 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: SQL and Database discussion questions with your table group |
-| 09:30 | First blogs ever!! |
-| 10:00 | Finish CLI app with partner and record demos |
+| 09:00 | TODO: Week 2, day 4 discussion |
+| 09:30 | Blogs! |
+| 10:00 | Lecture: Table Relations |
+| 11:30 | Work on SQL labs |
 | 12:00 | Lunch |
-| 01:00 | Lecture: Database and SQL Intro |
-| 03:30 | Work on SQL labs |
+| 01:00 | Work on SQL labs |
+| 04:30 | Lab Review: Bear Organizer |
 
 ### Blogs
 
-- [Will Schneekloth](http://www.willschneekloth.com)
-- [Rachel Bronstein](http://rachelbronstein.com/category/blog/)
-- [Howard Watts](https://medium.com/@hdwatts)
-
-### Notes
-
-We'll be finishing our projects and recording demos by lunch. Then, we'll jump into a new topic this afternoon!
+- [Kristin Donovan](http://rubyisshiny.tumblr.com/)
+- [Robert Hopkins](https://medium.com/@rhoprhh)
+- [Gabriel Seidner](https://medium.com/@gabriel_17032)
 
 ### Objectives
 
-- Understand what a database is and why we need them as developers 
-- Understand what SQL is and how it stores different types of data 
+- Model data using SQL 
+- Understand table relations and joins 
 
 ### Labs
 
-- [sql-topic-introduction](http://www.github.com/learn-co-students/sql-topic-introduction-web-0416)
-- [sql-intro-and-installation-readme](http://www.github.com/learn-co-students/sql-intro-and-installation-readme-web-0416)
-- [sql-database-basics-readme](http://www.github.com/learn-co-students/sql-database-basics-readme-web-0416)
-- [sql-databases-and-text-editors-readme](http://www.github.com/learn-co-students/sql-databases-and-text-editors-readme-web-0416)
-- [sql-insert-select-update-code-along](http://www.github.com/learn-co-students/sql-insert-select-update-code-along-web-0416)
-- [week-2-day-3-discussion](http://www.github.com/learn-co-students/week-2-day-3-discussion-web-0416)
+- [sql-table-relations-readme](http://www.github.com/learn-co-students/sql-table-relations-readme-web-0416)
+- [sql-joins-readme](http://www.github.com/learn-co-students/sql-joins-readme-web-0416)
+- [/sql-join-tables-readme](http://www.github.com/learn-co-students//sql-join-tables-readme-web-0416)
+- [sql-grouping-and-sorting-readme](http://www.github.com/learn-co-students/sql-grouping-and-sorting-readme-web-0416)
+- [/sql-crowdfunding-lab](http://www.github.com/learn-co-students//sql-crowdfunding-lab-web-0416)
+- [sql-complex-joins-readme](http://www.github.com/learn-co-students/sql-complex-joins-readme-web-0416)
+- [sql-library-lab](http://www.github.com/learn-co-students/sql-library-lab-web-0416)
+- [week-2-day-4-discussion](http://www.github.com/learn-co-students/week-2-day-4-discussion-web-0416)
 
