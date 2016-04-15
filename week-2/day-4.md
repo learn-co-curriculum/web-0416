@@ -34,3 +34,6 @@
 - [sql-join-tables-readme](http://www.github.com/learn-co-students/sql-join-tables-readme-web-0416)
 - [sql-crowdfunding-lab](http://www.github.com/learn-co-students/sql-crowdfunding-lab-web-0416)
 
+### [Today's Lecture](https://youtu.be/gpwbDUhxFG4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpwbDUhxFG4" frameborder="0" allowfullscreen></iframe>
