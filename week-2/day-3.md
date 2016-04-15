@@ -35,3 +35,7 @@ We'll be finishing our projects and recording demos by lunch. Then, we'll jump i
 - [sql-insert-select-update-code-along](http://www.github.com/learn-co-students/sql-insert-select-update-code-along-web-0416)
 - [week-2-day-3-discussion](http://www.github.com/learn-co-students/week-2-day-3-discussion-web-0416)
 
+
+## [Today's Lecture](https://youtu.be/oUqFqhsQLPk)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oUqFqhsQLPk" frameborder="0" allowfullscreen></iframe>
