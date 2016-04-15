@@ -1,36 +1,26 @@
-# Week 2, Day 4
+# Week 2, Day 5
 
-### Thursday, 14 Apr 2016
+### Friday, 15 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: Week 2, day 4 discussion |
+| 09:00 | TODO: Finish metaprogramming labs or start ruby-orm reading |
 | 09:30 | Blogs! |
-| 10:00 | Lecture: Table Relations |
-| 11:30 | Work on SQL labs |
+| 10:00 | Lecture: Metaprogramming and ORMS Intro |
 | 12:00 | Lunch |
-| 01:00 | Work on SQL labs |
-| 04:30 | Lab Review: Bear Organizer |
-
-### Blogs
-
-- [Kristin Donovan](http://rubyisshiny.tumblr.com/)
-- [Robert Hopkins](https://medium.com/@rhoprhh)
-- [Gabriel Seidner](https://medium.com/@gabriel_17032)
+| 01:00 | Work on ORM labs |
+| 04:30 | Feelings Friday |
 
 ### Objectives
 
-- Model data using SQL 
-- Understand table relations and joins 
+- Understand the concept of an ORM 
+- Use metaprogramming and mass assignment to build dynamic classes 
 
 ### Labs
 
-- [sql-table-relations-readme](http://www.github.com/learn-co-students/sql-table-relations-readme-web-0416)
-- [sql-joins-readme](http://www.github.com/learn-co-students/sql-joins-readme-web-0416)
-- [sql-grouping-and-sorting-readme](http://www.github.com/learn-co-students/sql-grouping-and-sorting-readme-web-0416)
-- [sql-complex-joins-readme](http://www.github.com/learn-co-students/sql-complex-joins-readme-web-0416)
-- [sql-library-lab](http://www.github.com/learn-co-students/sql-library-lab-web-0416)
-- [week-2-day-4-discussion](http://www.github.com/learn-co-students/week-2-day-4-discussion-web-0416)
-- [sql-join-tables-readme](http://www.github.com/learn-co-students/sql-join-tables-readme-web-0416)
-- [sql-crowdfunding-lab](http://www.github.com/learn-co-students/sql-crowdfunding-lab-web-0416)
+- [ruby-orm](http://www.github.com/learn-co-students/ruby-orm-web-0416)
+- [pokemon-scraper](http://www.github.com/learn-co-students/pokemon-scraper-web-0416)
+- [keyword-args-mass-assignment](http://www.github.com/learn-co-students/keyword-args-mass-assignment-web-0416)
+- [mass-assignment-metaprogramming](http://www.github.com/learn-co-students/mass-assignment-metaprogramming-web-0416)
+- [mass-assignment](http://www.github.com/learn-co-students/mass-assignment-web-0416)
 
