@@ -10,6 +10,11 @@
 
 6 . [Sharing Code](http://youtu.be/A9_ZEgEeG-8)
 
+7 . [Intro to SQL](https://www.youtube.com/watch?v=oUqFqhsQLPk)
+
+8 . [More SQL](https://www.youtube.com/watch?v=gpwbDUhxFG4)
+
+
 ## Lab Reviews
 
 1 . [OO Banking](https://www.youtube.com/watch?v=DHKBrGklJSA&feature=youtu.be)
