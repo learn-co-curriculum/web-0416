@@ -1,26 +1,31 @@
-# Week 2, Day 5
+# Week 3, Day 1
 
-### Friday, 15 Apr 2016
+### Monday, 18 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: Finish metaprogramming labs or start ruby-orm reading |
-| 09:30 | Blogs! |
-| 10:00 | Lecture: Metaprogramming and ORMS Intro |
+| 09:00 | TODO: Finish Dynamic ORM lab or start new Active Record content |
+| 09:30 | Blogs |
+| 10:00 | Lecture: Building a Dynamic ORM |
 | 12:00 | Lunch |
-| 01:00 | Work on ORM labs |
-| 04:30 | Feelings Friday |
+| 01:00 | Work on Active Record Labs |
+| 04:00 | Lab Review: ORM Bringing It All Together |
+
+### Blogs
+
+- Dean Carrano
+- Liana Grobstein
+- [Wesley Davis](http://polopro.github.io)
 
 ### Objectives
 
-- Understand the concept of an ORM 
-- Use metaprogramming and mass assignment to build dynamic classes 
+- Use metaprogramming to build a dynamic ORM 
+- Introduce the topic of Active Record 
 
 ### Labs
 
-- [ruby-orm](http://www.github.com/learn-co-students/ruby-orm-web-0416)
-- [pokemon-scraper](http://www.github.com/learn-co-students/pokemon-scraper-web-0416)
-- [keyword-args-mass-assignment](http://www.github.com/learn-co-students/keyword-args-mass-assignment-web-0416)
-- [mass-assignment-metaprogramming](http://www.github.com/learn-co-students/mass-assignment-metaprogramming-web-0416)
-- [mass-assignment](http://www.github.com/learn-co-students/mass-assignment-web-0416)
+- [bringing-it-all-together](http://www.github.com/learn-co-students/bringing-it-all-together-web-0416)
+- [dynamic-orm-lab](http://www.github.com/learn-co-students/dynamic-orm-lab-web-0416)
+- [active-record-mechanics-crud](http://www.github.com/learn-co-students/active-record-mechanics-crud-web-0416)
+- [translating-orm-toar](http://www.github.com/learn-co-students/translating-orm-toar-web-0416)
 
