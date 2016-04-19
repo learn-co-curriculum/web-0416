@@ -18,6 +18,10 @@
 
 10 . [HacktiveRecord](http://youtu.be/RtgMqhRX5ek)
 
+11 . [ActiveRecord Gem](https://www.youtube.com/watch?v=EhhUGQIma_A&feature=youtu.be)
+
+12 . [Migrations](https://www.youtube.com/watch?v=EhhUGQIma_A&feature=youtu.be)
+
 ## Lab Reviews
 
 1 . [OO Banking](https://www.youtube.com/watch?v=DHKBrGklJSA&feature=youtu.be)
