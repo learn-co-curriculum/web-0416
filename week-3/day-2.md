@@ -29,3 +29,10 @@
 - [Active-Record-Association-Methods](http://www.github.com/learn-co-students/Active-Record-Association-Methods-web-0416)
 - [activerecord-tvland](http://www.github.com/learn-co-students/activerecord-tvland-web-0416)
 
+## Today's Lectures
+
+[ActiveRecord Gem](https://www.youtube.com/watch?v=EhhUGQIma_A&feature=youtu.be)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EhhUGQIma_A" frameborder="0" allowfullscreen></iframe>
+
+[Migrations](https://www.youtube.com/watch?v=aNVnMafIBvs&feature=youtu.be)
+<iframe width="420" height="315" src="https://www.youtube.com/embed/aNVnMafIBvs" frameborder="0" allowfullscreen></iframe>
