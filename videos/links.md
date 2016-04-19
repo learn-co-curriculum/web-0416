@@ -14,6 +14,9 @@
 
 8 . [More SQL](https://www.youtube.com/watch?v=gpwbDUhxFG4)
 
+9 . [Intro to ORMs](http://youtu.be/8Tx0C-FIDU8)
+
+10 . [HacktiveRecord](http://youtu.be/RtgMqhRX5ek)
 
 ## Lab Reviews
 
