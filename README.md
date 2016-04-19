@@ -1,31 +1,31 @@
-# Week 3, Day 1
+# Week 3, Day 2
 
-### Monday, 18 Apr 2016
+### Tuesday, 19 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: Finish Dynamic ORM lab or start new Active Record content |
+| 09:00 | TODO: Work on ActiveRecord TV Land lab |
 | 09:30 | Blogs |
-| 10:00 | Lecture: Building a Dynamic ORM |
+| 10:00 | Lecture: Active Record |
 | 12:00 | Lunch |
-| 01:00 | Work on Active Record Labs |
-| 04:00 | Lab Review: ORM Bringing It All Together |
+| 01:00 | Work on Labs |
+| 03:00 | Lab Review |
 
 ### Blogs
 
-- Dean Carrano
-- Liana Grobstein
-- [Wesley Davis](http://polopro.github.io)
+- X M
+- [Justin Nazari](https://medium.com/@JustinNazari)
+- [Daniella Corricelli](http://codewithd.tumblr.com/)
 
 ### Objectives
 
-- Use metaprogramming to build a dynamic ORM 
-- Introduce the topic of Active Record 
+- Understand how to build Active Record migrations 
+- Use Rake to access a console environment that has access to your domain model 
+- Use Active Record methods to query your database 
 
 ### Labs
 
-- [bringing-it-all-together](http://www.github.com/learn-co-students/bringing-it-all-together-web-0416)
-- [dynamic-orm-lab](http://www.github.com/learn-co-students/dynamic-orm-lab-web-0416)
-- [active-record-mechanics-crud](http://www.github.com/learn-co-students/active-record-mechanics-crud-web-0416)
-- [translating-orm-toar](http://www.github.com/learn-co-students/translating-orm-toar-web-0416)
+- [activerecord-crud](http://www.github.com/learn-co-students/activerecord-crud-web-0416)
+- [Active-Record-Association-Methods](http://www.github.com/learn-co-students/Active-Record-Association-Methods-web-0416)
+- [activerecord-tvland](http://www.github.com/learn-co-students/activerecord-tvland-web-0416)
 
