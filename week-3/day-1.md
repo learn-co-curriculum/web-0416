@@ -29,3 +29,7 @@
 - [active-record-mechanics-crud](http://www.github.com/learn-co-students/active-record-mechanics-crud-web-0416)
 - [translating-orm-toar](http://www.github.com/learn-co-students/translating-orm-toar-web-0416)
 
+
+### [Today's Lecture](https://www.youtube.com/watch?v=RtgMqhRX5ek&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RtgMqhRX5ek" frameborder="0" allowfullscreen></iframe>
