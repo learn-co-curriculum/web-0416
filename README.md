@@ -1,31 +1,35 @@
-# Week 3, Day 2
+# Week 3, Day 3
 
-### Tuesday, 19 Apr 2016
+### Wednesday, 20 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: Work on ActiveRecord TV Land lab |
+| 09:00 | TODO: Start Rack readings and labs |
 | 09:30 | Blogs |
-| 10:00 | Lecture: Active Record |
+| 10:00 | Lecture: Rack and the Web |
 | 12:00 | Lunch |
-| 01:00 | Work on Labs |
-| 03:00 | Lab Review |
+| 01:00 | Work on Rack labs |
+| 04:00 | Lab Review TBA |
 
 ### Blogs
 
-- X M
-- [Justin Nazari](https://medium.com/@JustinNazari)
-- [Daniella Corricelli](http://codewithd.tumblr.com/)
+- [Robin Tully](https://medium.com/@mr.robintully)
+- [Lamine Ndaw](https://medium.com/@laminen)
+- [Samuel Lamm](http://www.selfdotcode.tumblr.com/)
+
+### Notes
+
+Today we start The Internet!!
 
 ### Objectives
 
-- Understand how to build Active Record migrations 
-- Use Rake to access a console environment that has access to your domain model 
-- Use Active Record methods to query your database 
+- Use Ruby and Rack to build a simple web application 
+- Understand the HTTP request and response cycle 
 
 ### Labs
 
-- [activerecord-crud](http://www.github.com/learn-co-students/activerecord-crud-web-0416)
-- [Active-Record-Association-Methods](http://www.github.com/learn-co-students/Active-Record-Association-Methods-web-0416)
-- [activerecord-tvland](http://www.github.com/learn-co-students/activerecord-tvland-web-0416)
+- [how-the-web-works-readme](http://www.github.com/learn-co-students/how-the-web-works-readme-web-0416)
+- [rack-intro](http://www.github.com/learn-co-students/rack-intro-web-0416)
+- [rack-dynamic-web-apps](http://www.github.com/learn-co-students/rack-dynamic-web-apps-web-0416)
+- [rack-responses-lab](http://www.github.com/learn-co-students/rack-responses-lab-web-0416)
 
