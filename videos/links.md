@@ -20,7 +20,9 @@
 
 11 . [ActiveRecord Gem](https://www.youtube.com/watch?v=EhhUGQIma_A&feature=youtu.be)		
 	
-12 . [Migrations](https://www.youtube.com/watch?v=EhhUGQIma_A&feature=youtu.be)		
+12 . [Migrations](https://www.youtube.com/watch?v=EhhUGQIma_A&feature=youtu.be)	
+
+13 . [The Internet](https://www.youtube.com/watch?v=P--x-P44IH4&feature=youtu.be)
 		
 ## Lab Reviews		
  	
