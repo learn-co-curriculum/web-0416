@@ -23,6 +23,8 @@
 12 . [Migrations](https://www.youtube.com/watch?v=EhhUGQIma_A&feature=youtu.be)	
 
 13 . [The Internet](https://www.youtube.com/watch?v=P--x-P44IH4&feature=youtu.be)
+
+14 . [Rack Routes](https://www.youtube.com/watch?v=0pUQzJN5exw&feature=youtu.be)
 		
 ## Lab Reviews		
  	
