@@ -33,3 +33,6 @@ Today we start The Internet!!
 - [rack-dynamic-web-apps](http://www.github.com/learn-co-students/rack-dynamic-web-apps-web-0416)
 - [rack-responses-lab](http://www.github.com/learn-co-students/rack-responses-lab-web-0416)
 
+### [Today's Lecture](https://www.youtube.com/watch?v=P--x-P44IH4&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P--x-P44IH4" frameborder="0" allowfullscreen></iframe>
