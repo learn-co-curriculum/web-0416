@@ -4,12 +4,12 @@
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Quiz |
-| 09:30 | Table Discussion |
-| 10:00 | Blogs |
-| 10:30 | Sinatra Lecture |
-| 12:00 | Lunch |
-| 01:00 | Work on Sinatra labs. We will assign pairs for one of the labs, TBA |
+| 09:00 | Work on Sinatra labs |
+| 09:30 | Blogs |
+| 10:00 | Lecture: Intro to Sinatra |
+| 01:00 | Quiz |
+| 01:30 | Table Discussion |
+| 02:00 | Work on Sinatra labs. We will assign pairs for one of the labs, TBA |
 | 03:30 | Feelings Friday |
 
 ### Blogs
@@ -20,7 +20,7 @@
 
 ### Notes
 
-Today we will be starting the morning with a short (no pressure) quiz. We'll share the link to the quiz at 9am. You'll complete the quiz on your own, then we'll spend some time discussing questions with our table groups.   We will also be dismissing a little early today, for anyone who observes Passover.
+Today we will giving a short (no pressure) quiz. We'll share the link to the quiz after lunch at 1pm. You'll complete the quiz on your own, then we'll spend some time discussing questions with our table groups.   We will also be dismissing a little early today, for anyone who observes Passover.
 
 ### Objectives
 
