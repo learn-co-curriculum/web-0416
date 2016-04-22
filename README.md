@@ -1,35 +1,30 @@
-# Week 3, Day 3
+# Week 3, Day 4
 
-### Wednesday, 20 Apr 2016
+### Thursday, 21 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | TODO: Start Rack readings and labs |
+| 09:00 | TODO: sinatra intro to mvc reading |
 | 09:30 | Blogs |
-| 10:00 | Lecture: Rack and the Web |
+| 10:00 | Lecture: MVC and the Web |
 | 12:00 | Lunch |
-| 01:00 | Work on Rack labs |
-| 04:00 | Lab Review TBA |
+| 01:00 | Work on labs |
+| 03:00 | Lab Review: Model Clas Methods lab |
+| 04:00 | Work on new Sinatra labs |
 
 ### Blogs
 
-- [Robin Tully](https://medium.com/@mr.robintully)
-- [Lamine Ndaw](https://medium.com/@laminen)
-- [Samuel Lamm](http://www.selfdotcode.tumblr.com/)
-
-### Notes
-
-Today we start The Internet!!
+- Mayank Mishra
+- [Charlie Tafoya](https://medium.com/@cjtafoya)
 
 ### Objectives
 
-- Use Ruby and Rack to build a simple web application 
-- Understand the HTTP request and response cycle 
+- Understand the concept of the MVC design pattern 
 
 ### Labs
 
-- [how-the-web-works-readme](http://www.github.com/learn-co-students/how-the-web-works-readme-web-0416)
-- [rack-intro](http://www.github.com/learn-co-students/rack-intro-web-0416)
-- [rack-dynamic-web-apps](http://www.github.com/learn-co-students/rack-dynamic-web-apps-web-0416)
-- [rack-responses-lab](http://www.github.com/learn-co-students/rack-responses-lab-web-0416)
+- [rack-dynamic-paths-readme](http://www.github.com/learn-co-students/rack-dynamic-paths-readme-web-0416)
+- [rack-dynamic-routes-lab](http://www.github.com/learn-co-students/rack-dynamic-routes-lab-web-0416)
+- [model-class-methods-lab](http://www.github.com/learn-co-students/model-class-methods-lab-web-0416)
+- [sinatra-intro-to-mvc](http://www.github.com/learn-co-students/sinatra-intro-to-mvc-web-0416)
 
