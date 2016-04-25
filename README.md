@@ -1,36 +1,34 @@
-# Week 3, Day 5
+# Week 4, Day 1
 
-### Friday, 22 Apr 2016
+### Sunday, 24 Apr 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Work on Sinatra labs |
+| 09:00 | Work on Sinatra Labs |
 | 09:30 | Blogs |
-| 10:00 | Lecture: Intro to Sinatra |
-| 01:00 | Quiz |
-| 01:30 | Table Discussion |
-| 02:00 | Work on Sinatra labs. We will assign pairs for one of the labs, TBA |
-| 03:30 | Feelings Friday |
-
-### Blogs
-
-- Alana Simoncelli
-- Alex Martin
-- Eve Essex
+| 10:00 | Sinatra Lecture: Forms |
+| 11:00 | Guest Lecture |
+| 11:30 | Moronic Monday |
+| 12:00 | Lunch |
+| 01:00 | Work on Sinatra labs |
+| 03:00 | Lab Review TBA |
 
 ### Notes
 
-Today we will giving a short (no pressure) quiz. We'll share the link to the quiz after lunch at 1pm. You'll complete the quiz on your own, then we'll spend some time discussing questions with our table groups.   We will also be dismissing a little early today, for anyone who observes Passover.
+Today we have a guest lecturer joining us at 11am!
 
 ### Objectives
 
-- Gain an introduction to the Sinatra web framework 
-- Build a simple Sinatra web app! 
+- Understand routing in Sinatra 
+- Pass data between Sinatra controllers and views 
+- Understand the Sinatra MVC design pattern and what each element is responsible for 
+- Use forms to send information in a Sinatra app 
+- Integrate Active Record with a Sinatra app for data persistance 
 
 ### Labs
 
-- [sinatra-hello-world-basics](http://www.github.com/learn-co-students/sinatra-hello-world-basics-web-0416)
-- [sinatra-basic-rotues-lab](http://www.github.com/learn-co-students/sinatra-basic-rotues-lab-web-0416)
-- [sinatra-basic-views-lab](http://www.github.com/learn-co-students/sinatra-basic-views-lab-web-0416)
-- [sinatra-views-lab](http://www.github.com/learn-co-students/sinatra-views-lab-web-0416)
+- [sinatra-mvc-lab](http://www.github.com/learn-co-students/sinatra-mvc-lab-web-0416)
+- [sinatra-basic-forms-lab](http://www.github.com/learn-co-students/sinatra-basic-forms-lab-web-0416)
+- [sinatra-ar-crud-lab](http://www.github.com/learn-co-students/sinatra-ar-crud-lab-web-0416)
+- [sinatra-activerecord-associations](http://www.github.com/learn-co-students/sinatra-activerecord-associations-web-0416)
 
