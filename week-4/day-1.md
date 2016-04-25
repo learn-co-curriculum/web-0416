@@ -32,3 +32,5 @@ Today we have a guest lecturer joining us at 11am!
 - [sinatra-ar-crud-lab](http://www.github.com/learn-co-students/sinatra-ar-crud-lab-web-0416)
 - [sinatra-activerecord-associations](http://www.github.com/learn-co-students/sinatra-activerecord-associations-web-0416)
 
+### [Today's Lecture](http://youtu.be/mc_kCLw_jBA)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mc_kCLw_jBA" frameborder="0" allowfullscreen></iframe>
