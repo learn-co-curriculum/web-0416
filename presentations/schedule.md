@@ -11,7 +11,7 @@ Approach your presentation like a technical talk. Pick a topic you are intereste
 ## Schedule
 
 #### Tuesday, May 3rd, 2016
-##### Group lead: Sophie
+##### Group lead: Antoin
 
 * Gabriel Seidner, Robert Hopkins
 * Samuel Lamm, Mayank Mishra
@@ -20,14 +20,14 @@ Approach your presentation like a technical talk. Pick a topic you are intereste
 
 
 #### Tuesday, May 10th, 2016
-##### Group lead: Antoin
+##### Group lead: Steven
 * Justin Nazari, Jacob Shiff
 * Eve Essex, Michael Alpert-Appell
 * JJ Seymour, Wesley Davis
 * Michael Handwerker, Kristin Donovan
 
 #### Tuesday, May 17th, 2016
-##### Group lead: Steven
+##### Group lead: Sophie
 * Christopher Morrison, Erin Pettigrew
 * Lamine Ndaw, Einar Stensson
 * Angie Ramirez, Daniella Corricelli
