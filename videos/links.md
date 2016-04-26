@@ -33,3 +33,4 @@
 ## Lab Reviews		
  	
 1 . [OO Banking](https://www.youtube.com/watch?v=DHKBrGklJSA&feature=youtu.be)
+2 . [Sinatra Nested Forms - Pirates](https://www.youtube.com/watch?v=kgHN11dQ3H0&feature=youtu.be)
