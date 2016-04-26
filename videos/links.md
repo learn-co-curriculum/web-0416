@@ -26,7 +26,9 @@
 
 14 . [Rack Routes](https://www.youtube.com/watch?v=0pUQzJN5exw&feature=youtu.be)
 
-15 . [Intro to Forms](http://youtu.be/mc_kCLw_jBA)
+15 . [Rack Routes & Intro to Sinatra](http://youtu.be/c0m3QIBdock)
+
+16 . [Intro to Forms](http://youtu.be/mc_kCLw_jBA)
 		
 ## Lab Reviews		
  	
