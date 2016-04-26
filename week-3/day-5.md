@@ -20,7 +20,9 @@
 
 ### Notes
 
-Today we will giving a short (no pressure) quiz. We'll share the link to the quiz after lunch at 1pm. You'll complete the quiz on your own, then we'll spend some time discussing questions with our table groups.   We will also be dismissing a little early today, for anyone who observes Passover.
+Today we will giving a short (no pressure) quiz. We'll share the link to the quiz after lunch at 1pm. You'll complete the quiz on your own, then we'll spend some time discussing questions with our table groups. 
+ 
+ We will also be dismissing a little early today, for anyone who observes Passover.
 
 ### Objectives
 
@@ -34,3 +36,5 @@ Today we will giving a short (no pressure) quiz. We'll share the link to the qui
 - [sinatra-basic-views-lab](http://www.github.com/learn-co-students/sinatra-basic-views-lab-web-0416)
 - [sinatra-views-lab](http://www.github.com/learn-co-students/sinatra-views-lab-web-0416)
 
+### [Today's Lecture](http://youtu.be/c0m3QIBdock)
+<iframe width="420" height="315" src="https://www.youtube.com/embed/c0m3QIBdock" frameborder="0" allowfullscreen></iframe>
