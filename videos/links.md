@@ -1,3 +1,5 @@
+## Lectures  
+
 1 . [Intro to Git](https://www.youtube.com/watch?v=bK7i-BMJcM0&feature=youtu.be)		
 
 2 . [Intro to Ruby](https://www.youtube.com/watch?v=_BmEuwgHsGI&feature=youtu.be)		
@@ -29,6 +31,8 @@
 15 . [Rack Routes & Intro to Sinatra](http://youtu.be/c0m3QIBdock)
 
 16 . [Intro to Forms](http://youtu.be/mc_kCLw_jBA)
+
+17 . [Intro to Rails](https://www.youtube.com/watch?v=fpHd9bE2o7o&feature=youtu.be)
 		
 ## Lab Reviews		
  	
