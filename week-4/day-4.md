@@ -27,3 +27,7 @@
 - [week-4-day-4-discussion](http://www.github.com/learn-co-students/week-4-day-4-discussion-web-0416)
 - [intro-to-rails](http://www.github.com/learn-co-students/intro-to-rails-web-0416)
 
+
+### [Today's Lecture](https://www.youtube.com/watch?v=fpHd9bE2o7o&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fpHd9bE2o7o" frameborder="0" allowfullscreen></iframe>
