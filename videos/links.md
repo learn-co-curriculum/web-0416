@@ -33,6 +33,8 @@
 16 . [Intro to Forms](http://youtu.be/mc_kCLw_jBA)
 
 17 . [Intro to Rails](https://www.youtube.com/watch?v=fpHd9bE2o7o&feature=youtu.be)
+
+18 . [Building with Rails - HackKey](http://youtu.be/ACEQuKpyX5k)
 		
 ## Lab Reviews		
  	
