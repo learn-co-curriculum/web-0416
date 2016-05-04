@@ -31,3 +31,6 @@ Today we'll be assigning pairs and you'll be building your own Rails app!
 
 - [rails-layouts-and-templates](http://www.github.com/learn-co-students/rails-layouts-and-templates-web-0416)
 
+### [Today's Lecture](https://www.youtube.com/watch?v=lObHElZAxnc&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lObHElZAxnc" frameborder="0" allowfullscreen></iframe>
