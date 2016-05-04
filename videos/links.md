@@ -44,3 +44,9 @@
 1 . [OO Banking](https://www.youtube.com/watch?v=DHKBrGklJSA&feature=youtu.be)  
 2 . [Sinatra Nested Forms - Pirates](https://www.youtube.com/watch?v=kgHN11dQ3H0&feature=youtu.be)  
 3 . [Boat's ActiveRecord](https://www.youtube.com/watch?v=CNl-xPX9Y90&feature=youtu.be)  
+
+
+## Moronic Monday 
+
+1 . [Moronic Monday - Forms](https://www.youtube.com/watch?v=eHDlxxn2_v4&feature=youtu.be)
+
