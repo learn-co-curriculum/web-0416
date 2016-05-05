@@ -26,3 +26,5 @@
 
 - [https://github.com/learn-co-students/has-many-through-forms-rails-labs-web-0416](http://www.github.com/learn-co-students/https://github.com/learn-co-students/has-many-through-forms-rails-labs-web-0416-web-0416)
 
+
+### [Today's Code](https://github.com/StevenNunez/has-many-through-forms-rails-labs-web-0416)
