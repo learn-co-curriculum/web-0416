@@ -28,3 +28,7 @@
 
 
 ### [Today's Code](https://github.com/StevenNunez/has-many-through-forms-rails-labs-web-0416)
+
+### [Today's Lecture](https://www.youtube.com/watch?v=Etc-IsokyI8&feature=youtu.be) 
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/Etc-IsokyI8" frameborder="0" allowfullscreen></iframe>
