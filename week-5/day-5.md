@@ -8,6 +8,7 @@
 | 10:00 | Lecture |
 | 12:00 | Lunch |
 | 01:00 | Labs |
+| 04:30 | Feelings Friday | 
 
 ### Blogs
 
