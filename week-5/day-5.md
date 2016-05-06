@@ -22,3 +22,5 @@
 - Authenticate users in Rails 
 
 ### [Today's Lecture](https://www.youtube.com/watch?v=5fcQu-j7mDA&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5fcQu-j7mDA" frameborder="0" allowfullscreen></iframe>
