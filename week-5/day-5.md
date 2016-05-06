@@ -21,3 +21,4 @@
 - Understand the importance of web security 
 - Authenticate users in Rails 
 
+### [Today's Lecture](https://www.youtube.com/watch?v=5fcQu-j7mDA&feature=youtu.be)
