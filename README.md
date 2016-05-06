@@ -1,28 +1,22 @@
-# Week 5, Day 4
+# Week 5, Day 5
 
-### Thursday, 05 May 2016
+### Friday, 06 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Work on Nested Form Lab |
 | 09:30 | Blogs |
-| 10:00 | Lab Review |
+| 10:00 | Lecture |
 | 12:00 | Lunch |
 | 01:00 | Labs |
-| 02:00 | Lecture |
-| 04:00 | Labs |
 
 ### Blogs
 
-- [Samuel Lamm](http://www.selfdotcode.tumblr.com/)
-- Mayank Mishra
+- [Charlie Tafoya](https://medium.com/@cjtafoya)
+- Alana Simoncelli
+- [Alex Martin](https://medium.com/@alexseth1124)
 
 ### Objectives
 
-- Build nested forms with Rails forms builders 
-- Get an introduction to Authentication with Rails 
-
-### Labs
-
-- [https://github.com/learn-co-students/has-many-through-forms-rails-labs-web-0416](http://www.github.com/learn-co-students/https://github.com/learn-co-students/has-many-through-forms-rails-labs-web-0416-web-0416)
+- Understand the importance of web security 
+- Authenticate users in Rails 
 
