@@ -33,3 +33,6 @@ Today we'll be finishing up our discussion of sessions and authorization. In the
 - [has\_secure\_password\_lab](http://www.github.com/learn-co-students/has_secure_password_lab-web-0416)
 - [rails-amusement-park](http://www.github.com/learn-co-students/rails-amusement-park-web-0416)
 
+### [Today's Lecture](https://www.youtube.com/watch?v=uqCwlyhbon4&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uqCwlyhbon4" frameborder="0" allowfullscreen></iframe>
