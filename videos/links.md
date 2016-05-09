@@ -42,6 +42,10 @@
 
 21 . [Nested Forms - Part 2](https://www.youtube.com/watch?v=Q14udTLt5YE&feature=youtu.be)
 
+22 . [Authentication](https://www.youtube.com/watch?v=5fcQu-j7mDA&feature=youtu.be)
+
+23 . [Sign in and Sign up](https://www.youtube.com/watch?v=uqCwlyhbon4&feature=youtu.be)
+
 ## Lab Reviews		
  	
 1 . [OO Banking](https://www.youtube.com/watch?v=DHKBrGklJSA&feature=youtu.be)  
