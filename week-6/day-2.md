@@ -8,7 +8,8 @@
 | 09:30 | Blogs |
 | 10:00 | Lecture |
 | 12:00 | Lunch |
-| 01:00 | Work on labs |
+| 01:00 | Salsa Dancing Workshop |
+| 02:30 | Work on labs |
 | 04:00 | Lab Review: Amusement Park |
 
 ### Blogs
