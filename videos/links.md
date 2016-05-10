@@ -46,6 +46,8 @@
 
 23 . [Sign in and Sign up](https://www.youtube.com/watch?v=uqCwlyhbon4&feature=youtu.be)
 
+24 . [Sign out and Before_action](https://www.youtube.com/watch?v=w6LbZbcdYdg&feature=youtu.be)
+
 ## Lab Reviews		
  	
 1 . [OO Banking](https://www.youtube.com/watch?v=DHKBrGklJSA&feature=youtu.be)  
