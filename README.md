@@ -1,35 +1,29 @@
-# Week 6, Day 1
+# Week 6, Day 2
 
-### Monday, 09 May 2016
+### Tuesday, 10 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Work on finishing authorization labs |
+| 09:00 | Authorization Discussion Questions with your table |
 | 09:30 | Blogs |
-| 10:00 | Moronic Monday |
-| 11:00 | Lecture: Authorization |
+| 10:00 | Lecture |
 | 12:00 | Lunch |
-| 01:00 | Work on Amusement Park lab in pairs (we will assign them) |
+| 01:00 | Salsa Dancing Workshop |
+| 02:30 | Work on labs |
+| 04:00 | Lab Review: Amusement Park |
 
 ### Blogs
 
-- [Eve Essex](https://medium.com/@eve.essex/)
-- [Michael Alpert-Appell](https://medium.com/@mikeappell)
-- [Einar Stensson](http://einarstensson.github.io/)
+- [Erin Pettigrew](https://medium.com/@codenode)
+- [Angie Ramirez](https://medium.com/@_angieramirez)
+- [Duncan Standish](https://medium.com/@irateprofessional)
 
 ### Notes
 
-Today we'll be finishing up our discussion of sessions and authorization. In the afternoon, we'll break up into pairs to tackle a big Rails lab-- Amusement Park lab (insert roller coaster pun here).
+Today we'll be reviewing Rails Amusement Park in the late afternoon. Before that, we'll give you some time to finish up that lab or any other Rails lab.
 
 ### Objectives
 
-- Build out authorization flow in a Rails app 
-- Understand how sessions work in Rails 
-- Build custom routes in a Rails app 
-
-### Labs
-
-- [sessions\_controller\_lab](http://www.github.com/learn-co-students/sessions_controller_lab-web-0416)
-- [has\_secure\_password\_lab](http://www.github.com/learn-co-students/has_secure_password_lab-web-0416)
-- [rails-amusement-park](http://www.github.com/learn-co-students/rails-amusement-park-web-0416)
+- Use sessions to enact user authorization flow in Rails 
+- Understand a complex Rails application 
 
