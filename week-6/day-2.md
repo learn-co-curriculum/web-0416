@@ -27,3 +27,6 @@ Today we'll be reviewing Rails Amusement Park in the late afternoon. Before that
 - Use sessions to enact user authorization flow in Rails 
 - Understand a complex Rails application 
 
+### [Today's Lecture](https://www.youtube.com/watch?v=w6LbZbcdYdg&feature=youtu.be)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6LbZbcdYdg" frameborder="0" allowfullscreen></iframe>
