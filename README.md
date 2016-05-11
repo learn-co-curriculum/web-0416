@@ -1,29 +1,36 @@
-# Week 6, Day 2
+# Week 6, Day 3
 
-### Tuesday, 10 May 2016
+### Wednesday, 11 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Authorization Discussion Questions with your table |
+| 09:00 | Work on JS labs |
 | 09:30 | Blogs |
-| 10:00 | Lecture |
+| 10:00 | Lecture: Intro to JavaScript |
 | 12:00 | Lunch |
-| 01:00 | Salsa Dancing Workshop |
-| 02:30 | Work on labs |
-| 04:00 | Lab Review: Amusement Park |
+| 01:00 | Work on JS labs |
 
 ### Blogs
 
-- [Erin Pettigrew](https://medium.com/@codenode)
-- [Angie Ramirez](https://medium.com/@_angieramirez)
-- [Duncan Standish](https://medium.com/@irateprofessional)
+- [Kevin Webster](https://medium.com/@kevin.r.webster)
+- [Steven Goodstein](https://medium.com/@steve21168)
+- [Will Schneekloth](http://www.willschneekloth.com)
 
 ### Notes
 
-Today we'll be reviewing Rails Amusement Park in the late afternoon. Before that, we'll give you some time to finish up that lab or any other Rails lab.
+Javascript introduction today!
 
 ### Objectives
 
-- Use sessions to enact user authorization flow in Rails 
-- Understand a complex Rails application 
+- Understand Javascript data type 
+- Understand how to read Jasmine tests 
+- Understand how to define JS functions 
+- Gain a basic introduction to JS closures 
+
+### Labs
+
+- [js-deli-counter](http://www.github.com/learn-co-students/js-deli-counter-web-0416)
+- [js-beatles-loops-lab](http://www.github.com/learn-co-students/js-beatles-loops-lab-web-0416)
+- [chocolate-babka-closures](http://www.github.com/learn-co-students/chocolate-babka-closures-web-0416)
+- [js-basics-online-shopping-lab](http://www.github.com/learn-co-students/js-basics-online-shopping-lab-web-0416)
 
