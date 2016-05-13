@@ -34,3 +34,7 @@ Javascript introduction today!
 - [chocolate-babka-closures](http://www.github.com/learn-co-students/chocolate-babka-closures-web-0416)
 - [js-basics-online-shopping-lab](http://www.github.com/learn-co-students/js-basics-online-shopping-lab-web-0416)
 
+### [Today's Lecture](https://www.youtube.com/watch?v=JWbSuRK0ehM&feature=youtu.be)
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/JWbSuRK0ehM" frameborder="0" allowfullscreen></iframe>
+
