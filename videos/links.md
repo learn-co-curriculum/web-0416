@@ -17,3 +17,4 @@
 - 17. [Sign out and Before\_action](https://www.youtube.com/watch?v=w6LbZbcdYdg&feature=youtu.be) 
 - 18. [Sign out and Before Action (Test)](https://www.youtube.com/test) 
 - 19. [Intro to jQuery](https://www.youtube.com/watch?v=gR2u1tsLvbk&feature=youtu.be) 
+- 20. [Intro to JavaScript](https://www.youtube.com/watch?v=JWbSuRK0ehM&feature=youtu.be) 
