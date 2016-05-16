@@ -1,36 +1,37 @@
-# Week 6, Day 3
+# Week 7, Day 1
 
-### Wednesday, 11 May 2016
+### Monday, 16 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Work on JS labs |
+| 09:00 | Work on jQuery labs |
 | 09:30 | Blogs |
-| 10:00 | Lecture: Intro to JavaScript |
+| 10:00 | Moronic Monday |
+| 11:00 | Lab Review TBA |
 | 12:00 | Lunch |
-| 01:00 | Work on JS labs |
+| 01:00 | Work on Ajax labs |
 
 ### Blogs
 
-- [Kevin Webster](https://medium.com/@kevin.r.webster)
-- [Steven Goodstein](https://medium.com/@steve21168)
-- [Will Schneekloth](http://www.willschneekloth.com)
+- [Michael Handwerker](https://medium.com/@WerkerM)
+- [Alex Siega](https://codeawan.wordpress.com/)
+- [Dean Carrano](https://medium.com/@dcarrano/)
 
 ### Notes
 
-Javascript introduction today!
+Today we'll do a lab review and have the afternoon to work on labs.
 
 ### Objectives
 
-- Understand Javascript data type 
-- Understand how to read Jasmine tests 
-- Understand how to define JS functions 
-- Gain a basic introduction to JS closures 
+- User Ajax to send web requests 
+- Define Ajax "done" or "success" functions 
+- Understand how to use jQuery with Ajax 
 
 ### Labs
 
-- [js-deli-counter](http://www.github.com/learn-co-students/js-deli-counter-web-0416)
-- [js-beatles-loops-lab](http://www.github.com/learn-co-students/js-beatles-loops-lab-web-0416)
-- [chocolate-babka-closures](http://www.github.com/learn-co-students/chocolate-babka-closures-web-0416)
-- [js-basics-online-shopping-lab](http://www.github.com/learn-co-students/js-basics-online-shopping-lab-web-0416)
+- [jquery-ajax-youtube-todo](http://www.github.com/learn-co-students/jquery-ajax-youtube-todo-web-0416)
+- [javascript-lazy-loader](http://www.github.com/learn-co-students/javascript-lazy-loader-web-0416)
+- [js-apis-lab](http://www.github.com/learn-co-students/js-apis-lab-web-0416)
+- [js-spotify-api-ajax](http://www.github.com/learn-co-students/js-spotify-api-ajax-web-0416)
+- [js-weather-api-ajax](http://www.github.com/learn-co-students/js-weather-api-ajax-web-0416)
 
