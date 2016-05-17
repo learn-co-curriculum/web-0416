@@ -1,37 +1,35 @@
-# Week 7, Day 1
+# Week 7, Day 2
 
-### Monday, 16 May 2016
+### Tuesday, 17 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Work on jQuery labs |
+| 09:00 | Work on Flinstagram lab |
 | 09:30 | Blogs |
-| 10:00 | Moronic Monday |
-| 11:00 | Lab Review TBA |
+| 10:00 | Lab review: Flatstagram |
 | 12:00 | Lunch |
-| 01:00 | Work on Ajax labs |
+| 01:00 | Project introduction and guideline review |
+| 01:30 | Brainstorm with your project group |
+| 02:30 | Project pitches |
+| 03:00 | Start your project! |
 
 ### Blogs
 
-- [Michael Handwerker](https://medium.com/@WerkerM)
-- [Alex Siega](https://codeawan.wordpress.com/)
-- [Dean Carrano](https://medium.com/@dcarrano/)
+- Liana Grobstein
+- [Wesley Davis](https://medium.com/@WesleyDavis/)
+- [X M](https://universal-remonster.blogspot.com)
 
 ### Notes
 
-Today we'll do a lab review and have the afternoon to work on labs.
+This afternoon we'll review project guidelines, split up into your (assigned) project groups, brainstorm and present project pitches. Woo!
 
 ### Objectives
 
-- User Ajax to send web requests 
-- Define Ajax "done" or "success" functions 
-- Understand how to use jQuery with Ajax 
+- Use Ajax in a Rails App 
+- Learn about the magic of `remote: true` to make Ajax calls 
+- Start your first big Rails project! 
 
 ### Labs
 
-- [jquery-ajax-youtube-todo](http://www.github.com/learn-co-students/jquery-ajax-youtube-todo-web-0416)
-- [javascript-lazy-loader](http://www.github.com/learn-co-students/javascript-lazy-loader-web-0416)
-- [js-apis-lab](http://www.github.com/learn-co-students/js-apis-lab-web-0416)
-- [js-spotify-api-ajax](http://www.github.com/learn-co-students/js-spotify-api-ajax-web-0416)
-- [js-weather-api-ajax](http://www.github.com/learn-co-students/js-weather-api-ajax-web-0416)
+- [rails-jquery-flinstagram](http://www.github.com/learn-co-students/rails-jquery-flinstagram-web-0416)
 
