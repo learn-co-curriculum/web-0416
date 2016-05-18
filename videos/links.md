@@ -19,3 +19,4 @@
 - 19. [Intro to jQuery](https://www.youtube.com/watch?v=gR2u1tsLvbk&feature=youtu.be) 
 - 20. [Intro to JavaScript](https://www.youtube.com/watch?v=JWbSuRK0ehM&feature=youtu.be) 
 - 21. [jQuery ATM + Ajax Youtube Review](https://youtu.be/clvPcuvFfNU) 
+- 22. [Rails Ajax Flatstagram review](https://youtu.be/hFEHf7oCznQ) 
