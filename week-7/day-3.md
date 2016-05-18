@@ -5,8 +5,9 @@
 | Time | Activity |
 | --- | --- |
 | 09:00 | work on projects |
-| 09:30 | Talk on project management and Git workflow |
-| 10:00 | work on projects |
+| 09:30 | Blogs |
+| 10:00 | Talk on project management and git workflow |
+| 10:30 | work on projects |
 | 12:00 | Lunch |
 | 01:00 | Improv Workshop |
 | 02:15 | Stand-ups |
