@@ -1,25 +1,23 @@
-# Week 7, Day 3
+# Week 7, Day 4
 
-### Wednesday, 18 May 2016
+### Thursday, 19 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | work on projects |
-| 09:30 | Blogs |
-| 10:00 | Talk on project management and git workflow |
-| 10:30 | work on projects |
+| 09:00 | stand ups/work on projects |
+| 10:00 | work on projects |
 | 12:00 | Lunch |
-| 01:00 | Improv Workshop |
-| 02:15 | Stand-ups |
-| 03:00 | work on projects |
+| 01:00 | Blogs |
+| 01:30 | Work on projects |
 
 ### Blogs
 
-- [Justin Nazari](https://medium.com/@JustinNazari/)
-- [Daniella Corricelli](http://codewithd.tumblr.com/)
-- [Robin Tully](https://medium.com/@mr.robintully)
+- [Jacob Shiff](https://medium.com/@jacobshiff)
+- [Lamine Ndaw](https://medium.com/@laminen)
+- [Samuel Lamm](http://www.selfdotcode.tumblr.com/)
 
 ### Objectives
 
-- Start a Rails app and deploy it 
+- Deploy on day 2! 
+- Start building out the user flows/interactions of your Rails app 
 
