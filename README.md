@@ -1,23 +1,27 @@
-# Week 7, Day 4
+# Week 7, Day 5
 
-### Thursday, 19 May 2016
+### Friday, 20 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | stand ups/work on projects |
-| 10:00 | work on projects |
+| 09:00 | Stand ups/work on projects |
+| 10:00 | Work on projects |
 | 12:00 | Lunch |
-| 01:00 | Blogs |
-| 01:30 | Work on projects |
+| 01:30 | Blogs |
+| 02:00 | Work on projects |
 
 ### Blogs
 
-- [Jacob Shiff](https://medium.com/@jacobshiff)
-- [Lamine Ndaw](https://medium.com/@laminen)
-- [Samuel Lamm](http://www.selfdotcode.tumblr.com/)
+- Mayank Mishra
+- [Charlie Tafoya](https://medium.com/@cjtafoya)
+- Alana Simoncelli
+
+### Notes
+
+Once you have authorization set up, build out the ability for a user to <whatever they do>
+        </whatever>
 
 ### Objectives
 
-- Deploy on day 2! 
-- Start building out the user flows/interactions of your Rails app 
+- continue building out the user stories of your app! 
 
