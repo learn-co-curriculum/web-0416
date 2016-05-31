@@ -1,27 +1,29 @@
-# Week 7, Day 5
+# Week 9, Day 1
 
-### Friday, 20 May 2016
+### Tuesday, 31 May 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Stand ups/work on projects |
-| 10:00 | Work on projects |
+| 09:00 | Finish up OO JS labs |
+| 09:30 | Blogs |
+| 10:00 | Lab Review: Space Invaders |
+| 11:00 | Moronic Monday |
 | 12:00 | Lunch |
-| 01:30 | Blogs |
-| 02:00 | Work on projects |
+| 01:00 | RSpec Lecture |
+| 03:00 | Write tests for your project mode app with your group |
 
 ### Blogs
 
-- Mayank Mishra
-- [Charlie Tafoya](https://medium.com/@cjtafoya)
-- Alana Simoncelli
-
-### Notes
-
-Once you have authorization set up, build out the ability for a user to <whatever they do>
-        </whatever>
+- [Dean Carrano](https://medium.com/@dcarrano/)
+- Liana Grobstein
+- [Wesley Davis](https://medium.com/@WesleyDavis/)
 
 ### Objectives
 
-- continue building out the user stories of your app! 
+- Solidify their understanding of object oriented javascript 
+- gain an introduction to RSpec testing in a Rails app 
+
+### Labs
+
+- [space-invaders](http://www.github.com/learn-co-students/space-invaders-web-0416)
 
