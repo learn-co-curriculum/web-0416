@@ -5,10 +5,11 @@
 | Time | Activity |
 | --- | --- |
 | 09:00 | Continue to work on testing your apps |
-| 09:30 | Blogs |
-| 10:00 | Lecture: Refactoring Rails |
+| 09:30 | Career Services talk |
+| 10:30 | Lecture: Refactoring Rails |
 | 12:00 | Lunch |
-| 01:00 | Work on refactoring your project |
+| 01:00 | Blogs |
+| 01:30 | Work on refactoring your project |
 
 ### Blogs
 
