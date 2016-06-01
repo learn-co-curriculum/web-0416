@@ -1,29 +1,23 @@
-# Week 9, Day 1
+# Week 9, Day 2
 
-### Tuesday, 31 May 2016
+### Wednesday, 01 Jun 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Finish up OO JS labs |
+| 09:00 | Continue to work on testing your apps |
 | 09:30 | Blogs |
-| 10:00 | Lab Review: Space Invaders |
-| 11:00 | Moronic Monday |
+| 10:00 | Lecture: Refactoring Rails |
 | 12:00 | Lunch |
-| 01:00 | RSpec Lecture |
-| 03:00 | Write tests for your project mode app with your group |
+| 01:00 | Work on refactoring your project |
 
 ### Blogs
 
-- [Dean Carrano](https://medium.com/@dcarrano/)
-- Liana Grobstein
-- [Wesley Davis](https://medium.com/@WesleyDavis/)
+- [X M](https://universal-remonster.blogspot.com)
+- [Justin Nazari](https://medium.com/@JustinNazari/)
+- [Daniella Corricelli](http://codewithd.tumblr.com/)
 
 ### Objectives
 
-- Solidify their understanding of object oriented javascript 
-- gain an introduction to RSpec testing in a Rails app 
-
-### Labs
-
-- [space-invaders](http://www.github.com/learn-co-students/space-invaders-web-0416)
+- Understand three common Rails design patterns 
+- Begin refactoring project mode apps 
 
