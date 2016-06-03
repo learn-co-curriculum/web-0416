@@ -23,3 +23,4 @@
 - 23. [Action Cable Demo](https://youtu.be/sChpe580heI) 
 - 24. [Rails Refactoring Part I](https://youtu.be/rFWOEPZoH5U) 
 - 25. [Rails Refactor Part II]( https://www.youtube.com/watch?v=Ab25VXIZy_A) 
+- 26. [Rails Preformance](https://www.youtube.com/watch?v=CpB5ClgBk0c&feature=youtu.be) 
