@@ -1,28 +1,25 @@
-# Week 9, Day 4
+# Week 10, Day 1
 
-### Friday, 03 Jun 2016
+### Monday, 06 Jun 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | Finish up work on previous projects |
-| 09:30 | Blogs |
-| 10:00 | Assign groups for new projects/brainstorm |
-| 11:00 | project pitches |
-| 12:00 | Lunch |
-| 01:00 | work on projects |
-| 04:30 | Feelings Friday |
+| 09:00 | stand ups/work on projects |
+| 10:00 | work on projects |
+| 01:00 | projects |
+| 01:30 | Blogs |
+| 02:00 | projects |
+| 05:30 | Demos |
 
 ### Blogs
 
-- [Jacob Shiff](https://medium.com/@jacobshiff)
-- Mayank Mishra
-- [Charlie Tafoya](https://medium.com/@cjtafoya)
-
-### Notes
-
-Projects will go until Wednesday early afternoon. Projects will be small in scale with a focus on testing and good design.
+- Alana Simoncelli
+- [Alex Martin](https://medium.com/@alexseth1124)
+- [Eve Essex](https://medium.com/@eve.essex/)
 
 ### Objectives
 
-- Start their second Rails project 
+- Continue working on your project 
+- Use Simple Cov to measure your test coverage 
+- Make sure your app is deployed to heroku 
 
