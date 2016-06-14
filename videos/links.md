@@ -26,3 +26,4 @@
 - 26. [Rails Preformance](https://www.youtube.com/watch?v=CpB5ClgBk0c&feature=youtu.be) 
 - 27. [Rails Testing](https://www.youtube.com/watch?v=RqlLZOjpVYY&feature=youtu.be) 
 - 28. [Rails Active Jobs](https://youtu.be/u8FB59jiH24) 
+- 29. [OO JavaScript](https://www.youtube.com/watch?v=ak8brcLF9z0&feature=youtu.be) 
