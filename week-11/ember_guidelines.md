@@ -2,7 +2,7 @@
 
 ##Timeline
  - Start Wednesday, Jun 15
- - Science Fair for BOTH Projects (Ember and the last Rails one): Tuesday Afternoon, Jun 21
+ - Science Fair for BOTH Projects (Ember and the last Rails one): Tuesday 1PM, Jun 21
  - You can form your groups and start brainstorming today. We will not have a big pitch ceremony, but the instructors will speak with each group individually to scope the ideas
 
 ##Requirements
