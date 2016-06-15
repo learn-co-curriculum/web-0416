@@ -30,3 +30,4 @@
 - 30. [ES2015]( https://www.youtube.com/watch?v=Q7BCaV2tHaA&feature=youtu.be) 
 - 31. [Intro to Ember]( https://www.youtube.com/watch?v=Cg_o3oRSb4o&feature=youtu.be) 
 - 32. [Intro to API Design]( https://www.youtube.com/watch?v=BvNhlMwh2O0&feature=youtu.be) 
+- 33. [Connecting Ember and Rails](https://www.youtube.com/watch?v=OtEaGikRnXc&feature=youtu.be) 
