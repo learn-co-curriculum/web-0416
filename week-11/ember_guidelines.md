@@ -1,7 +1,4 @@
 #Ember Project Guidelines
-##Groups
- - 2-3 People per group
- - Choose your own groups
 
 ##Timeline
  - Start Wednesday, Jun 15
