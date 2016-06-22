@@ -1,25 +1,29 @@
-# Week 10, Day 1
+# Week 12, Day 3
 
-### Monday, 06 Jun 2016
+### Wednesday, 22 Jun 2016
 
 | Time | Activity |
 | --- | --- |
-| 09:00 | stand ups/work on projects |
-| 10:00 | work on projects |
-| 01:00 | projects |
-| 01:30 | Blogs |
-| 02:00 | projects |
-| 05:30 | Demos |
+| 09:00 | work on labs |
+| 09:30 | blogs! |
+| 10:00 | Career Services talk |
+| 11:00 | Lecture |
+| 12:00 | lunch |
+| 01:00 | work on labs/whiteboard |
+| 04:30 | Talk from Avi: Build, Blog, "Bresent" |
 
 ### Blogs
 
-- Alana Simoncelli
-- [Alex Martin](https://medium.com/@alexseth1124)
-- [Eve Essex](https://medium.com/@eve.essex/)
+- [Erin Pettigrew](https://medium.com/@codenode)
+- [Angie Ramirez](https://medium.com/@_angieramirez)
+- [Duncan Standish](https://medium.com/@irateprofessional)
+
+### Notes
+
+Reminder--today is your last day to finish your resume and get feedback from instructors on the technical portion.
 
 ### Objectives
 
-- Continue working on your project 
-- Use Simple Cov to measure your test coverage 
-- Make sure your app is deployed to heroku 
+- Gain a working understanding of common algorithms 
+- practice whiteboarding CS questions 
 
