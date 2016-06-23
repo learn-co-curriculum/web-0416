@@ -1,29 +1,15 @@
-# Week 12, Day 3
+# Week 12, Day 4
 
-### Wednesday, 22 Jun 2016
+### Tuesday, 23 Jun 2015
 
 | Time | Activity |
 | --- | --- |
 | 09:00 | work on labs |
-| 09:30 | blogs! |
-| 10:00 | Career Services talk |
-| 11:00 | Lecture |
+| 09:30 | blogs |
+| 10:00 | lecture: data structures |
+| 11:00 | whiteboard problems in groups |
 | 12:00 | lunch |
-| 01:00 | work on labs/whiteboard |
-| 04:30 | Talk from Avi: Build, Blog, "Bresent" |
-
-### Blogs
-
-- [Erin Pettigrew](https://medium.com/@codenode)
-- [Angie Ramirez](https://medium.com/@_angieramirez)
-- [Duncan Standish](https://medium.com/@irateprofessional)
-
-### Notes
-
-Reminder--today is your last day to finish your resume and get feedback from instructors on the technical portion.
-
-### Objectives
-
-- Gain a working understanding of common algorithms 
-- practice whiteboarding CS questions 
+| 01:00 | graduation survey |
+| 02:00 | talk: the long view |
+| 03:00 | week 12 survey |
 
